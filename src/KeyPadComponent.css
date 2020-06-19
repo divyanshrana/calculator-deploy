@@ -1,0 +1,14 @@
+.button{
+  width: 25vw;
+  height: 50vh;
+  display: flex;
+  flex-flow: row wrap;
+}
+.inbutton{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 25%;
+  height: 10vh;
+  font-size: 32px;
+}

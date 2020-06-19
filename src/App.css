@@ -1,6 +1,11 @@
 .App {
   text-align: center;
 }
+.calculator-body{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 
 .App-logo {
   height: 40vmin;
