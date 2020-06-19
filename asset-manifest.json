@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/calculator-deploy/static/css/main.a4191227.chunk.css",
+    "main.js": "/calculator-deploy/static/js/main.7d18b369.chunk.js",
+    "main.js.map": "/calculator-deploy/static/js/main.7d18b369.chunk.js.map",
+    "runtime-main.js": "/calculator-deploy/static/js/runtime-main.d7c1e485.js",
+    "runtime-main.js.map": "/calculator-deploy/static/js/runtime-main.d7c1e485.js.map",
+    "static/js/2.f462ee8f.chunk.js": "/calculator-deploy/static/js/2.f462ee8f.chunk.js",
+    "static/js/2.f462ee8f.chunk.js.map": "/calculator-deploy/static/js/2.f462ee8f.chunk.js.map",
+    "index.html": "/calculator-deploy/index.html",
+    "precache-manifest.d8607c4e3c9b6de07e9a4f7734e0086d.js": "/calculator-deploy/precache-manifest.d8607c4e3c9b6de07e9a4f7734e0086d.js",
+    "service-worker.js": "/calculator-deploy/service-worker.js",
+    "static/css/main.a4191227.chunk.css.map": "/calculator-deploy/static/css/main.a4191227.chunk.css.map",
+    "static/js/2.f462ee8f.chunk.js.LICENSE.txt": "/calculator-deploy/static/js/2.f462ee8f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/calculator-deploy/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7c1e485.js",
+    "static/js/2.f462ee8f.chunk.js",
+    "static/css/main.a4191227.chunk.css",
+    "static/js/main.7d18b369.chunk.js"
+  ]
+}
